@@ -1,4 +1,7 @@
 Втора лабораториска вежба по Софтверско инженерство
+
+Александар Трајковски, број на индекс: 203143
+
 Control flow graph фотографија: 
 
 ![slikaodCFG](https://user-images.githubusercontent.com/100590098/171403725-4414bd2d-db09-4095-bce3-ebf02dbc861f.jpg)
