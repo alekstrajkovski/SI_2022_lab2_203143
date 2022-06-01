@@ -12,7 +12,7 @@ Control flow graph фотографија:
 
 Тест случаи спорет критериум Every Branch!
 Тест примерите се : "#00", "#000", "0#00", "0#0#0#000"
-[everybranch](https://user-images.githubusercontent.com/100590098/171405732-98a37384-e87b-447c-b4c9-d8852a083ae6.jpg)
+![everybranch](https://user-images.githubusercontent.com/100590098/171405732-98a37384-e87b-447c-b4c9-d8852a083ae6.jpg)
 
 Објаснување за напишаните unit tests:
 
